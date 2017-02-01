@@ -1,5 +1,5 @@
 {
-  "build_hash": "a2c6f31123a3cc8385d45bf46c5dde82",
+  "build_hash": "f1c8d71c3eff84fab151fff5aabfd68b",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -955,6 +955,10 @@
     {
       "code": "0xf13e",
       "name": "gear-b"
+    },
+    {
+      "code": "0xf138",
+      "name": "gift"
     },
     {
       "code": "0xf13f",
